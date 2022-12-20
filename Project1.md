@@ -31,3 +31,8 @@ we then access our server locally in the ubuntu shell by running the following
 ![curl-local80](https://user-images.githubusercontent.com/50987494/208658930-fbda0c76-4a92-4b3a-8384-3bfadfdcf858.PNG)
 
 Open a web browser of your choice and try to access following url to ensure its working, we can pick 
+http://<Public-IP-Address>:80
+  
+  If you see following page, then your web server is now correctly installed and accessible through your firewall.
+  
+  ![ubuntu-default-page](https://user-images.githubusercontent.com/50987494/208661758-e29a4b1c-3b9c-44af-bd82-b6111d45bfbc.PNG)
